@@ -1,0 +1,5 @@
+require 'configs/smart-splits'
+-- require 'configs/heirline'
+require 'configs/lualine'
+require 'configs/neo-tree'
+-- require 'configs/todo-comments'
